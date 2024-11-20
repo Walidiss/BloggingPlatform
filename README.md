@@ -1,6 +1,6 @@
 
 # Blogging Platform API
-Project URL: https://github.com/Walidiss/BloggingPlatform.git
+
 This is a simple RESTful API built with .NET Core for a personal blogging platform. The API provides basic CRUD operations for blog posts, including features to filter posts by a search term.
 
 ---
@@ -129,3 +129,4 @@ dotnet test
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+https://roadmap.sh/projects/blogging-platform-api
